@@ -1,0 +1,12 @@
+- name: Bill Gates
+  message: Best invention since computer
+  image_file: bill.jpg
+- name: Paul Graham
+  message: Big hit of the year
+  image_file: paul.jpg
+- name: Paul Graham
+  message: Big hit of the year
+  image_file: paul.jpg
+- name: Paul Graham
+  message: Big hit of the year
+  image_file: paul.jpg
